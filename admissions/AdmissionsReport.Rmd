@@ -1,0 +1,95 @@
+---
+title: Local Status Admissions Reports
+
+header-includes:
+- \usepackage{booktabs}
+- \usepackage{longtable}
+- \usepackage{array}
+- \usepackage{multirow}
+- \usepackage{wrapfig}
+- \usepackage{float}
+- \usepackage{colortbl}
+- \usepackage{pdflscape}
+- \usepackage{tabu}
+- \usepackage{threeparttable}
+- \usepackage{threeparttablex}
+- \usepackage[normalem]{ulem}
+- \usepackage{makecell}
+- \usepackage{xcolor}
+
+params:
+  final: NA
+output: 
+  pdf_document:
+    latex_engine: xelatex
+sansfont: Arial
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## `r format(Sys.time(), '%B %d, %Y')`
+
+This report shows a Table of the totals of the seven following local statuses: _AACOMAS Application Received_, _Complete and In Review_, _Interview Requested_, _Interviewed, _Accept_, _Deposited_, and _Waitlisted_.
+
+
+  
+
+```{r echo=FALSE, fig.align="center"}
+table <- params$final[[3]]
+
+library(dplyr)
+
+table %>%
+  mutate(
+    status = status,
+    total = total,
+    pctchange = ifelse(pctchange > 0,
+                      cell_spec(pctchange, "latex", color = "#006400", bold = T),
+                      cell_spec(pctchange, "latex", color = "black"))
+        ) %>%
+  select(status, total, pctchange) %>%
+  kable(format = "latex", escape = F,  booktabs = T, 
+        col.names = c("Local Status", "Total", "Percentage Change From Last Cycle"),
+        align = c("l", "c", "c")) %>%
+  column_spec(2:3, width = "3cm") %>%
+  column_spec(1, width = "8cm") %>%
+  row_spec(0,bold=TRUE) %>%
+  kable_styling(latex_options = "striped", position = "center")
+
+
+
+ggplot(data=params$final[[1]], aes(x=status, y=value, fill=Date)) +
+  geom_bar(stat="identity", position=position_dodge())+
+  geom_text(data=subset(params$final[[1]],value != 0),aes(label=value), position=position_dodge(width=0.9), vjust=-0.25, size=3.5) +
+  ggtitle(label = "Number of Applications Received", subtitle = "Last Four Cycles") +
+  scale_fill_manual(name = "Cycles", values = c("#AED6F1", "#85C1E9", "#5DADE2", "#3498DB")) +
+  scale_x_discrete(name ="Local Status") +
+  theme_classic() +
+  theme(axis.title.x = element_blank(), 
+        axis.title.y = element_blank(), 
+        plot.title = element_text(color = "darkblue", size = 14, face = "bold", hjust = 0.5),
+        plot.subtitle = element_text(color = "black", hjust = 0.5),
+        legend.position="bottom",
+        legend.title = element_blank()) +
+  scale_y_continuous(expand = c(0,0),
+                     limits = c(0,max(params$final[[1]]$value)+80))
+
+ggplot(data=params$final[[2]], aes(x=status, y=value, fill=Date)) +
+  geom_bar(stat="identity", position=position_dodge())+
+  geom_text(data=subset(params$final[[2]],value != 0),aes(label=value), position=position_dodge(width=0.9), vjust=-0.25, size=3.5) +
+  ggtitle(label = "Number of Applications Processed", subtitle = "Last Four Cycles") +
+  scale_fill_manual(name = "Cycles", values = c("#AED6F1", "#85C1E9", "#5DADE2", "#3498DB")) +
+  scale_x_discrete(name ="Local Status") +
+  theme_classic() +
+  theme(axis.title.x = element_blank(), 
+        axis.title.y = element_blank(), 
+        plot.title = element_text(color = "darkblue", size = 14, face = "bold", hjust = 0.5),
+        plot.subtitle = element_text(color = "black", hjust = 0.5),
+        legend.position="bottom",
+        legend.title = element_blank()) +
+  scale_y_continuous(expand = c(0,0),
+                     limits = c(0,max(params$final[[2]]$value)+80))
+```
+
