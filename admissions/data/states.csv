@@ -1,0 +1,50 @@
+state,city,number,Latitude,Longitude,Accuracy Score,Accuracy Type,Number,Street,City,State,County,Zip,Country,Source
+Alabama,Montgomery,22,32.356988,-86.257817,1,place,,,Montgomery,AL,Montgomery County,36101,US,TIGER/Line® dataset from the US Census Bureau
+Arizona,Phoenix,1,33.703967,-112.351835,1,place,,,Phoenix,AZ,Maricopa County,85001,US,TIGER/Line® dataset from the US Census Bureau
+Arkansas,Little Rock,0,34.746905,-92.280049,1,place,,,Little Rock,AR,Pulaski County,72201,US,TIGER/Line® dataset from the US Census Bureau
+California,Sacramento,14,38.380456,-121.555406,1,place,,,Sacramento,CA,Sacramento County,94203,US,TIGER/Line® dataset from the US Census Bureau
+Colorado,Denver,1,39.726303,-104.856808,1,place,,,Denver,CO,Denver County,80201,US,TIGER/Line® dataset from the US Census Bureau
+Connecticut,Hartford,0,41.78007,-72.677099,1,place,,,Hartford,CT,Hartford County,6101,US,TIGER/Line® dataset from the US Census Bureau
+Delaware,Dover,0,39.156376,-75.49549,1,place,,,Dover,DE,Kent County,19901,US,TIGER/Line® dataset from the US Census Bureau
+District of Columbia,Washington D.C,0,38.911936,-77.016719,1,place,,,Washington,DC,District of Columbia,20001,US,TIGER/Line® dataset from the US Census Bureau
+Florida,Tallahassee,47,30.427753,-84.258472,1,place,,,Tallahassee,FL,Leon County,32301,US,TIGER/Line® dataset from the US Census Bureau
+Georgia,Atlanta,9,33.844371,-84.47405,1,place,,,Atlanta,GA,Fulton County,30301,US,TIGER/Line® dataset from the US Census Bureau
+Idaho,Boise,0,43.603768,-116.272921,1,place,,,Boise,ID,Ada County,83701,US,TIGER/Line® dataset from the US Census Bureau
+Illinois,Springfield,4,39.800698,-89.648801,1,place,,,Springfield,IL,Sangamon County,62701,US,TIGER/Line® dataset from the US Census Bureau
+Indiana,Indianapolis,1,39.775092,-86.13216,1,place,,,Indianapolis,IN,Marion County,46201,US,TIGER/Line® dataset from the US Census Bureau
+Iowa,Des Moines,0,41.672687,-93.572173,1,place,,,Des Moines,IA,Polk County,50301,US,TIGER/Line® dataset from the US Census Bureau
+Kansas,Topeka,1,38.988075,-95.780662,1,place,,,Topeka,KS,Shawnee County,66601,US,TIGER/Line® dataset from the US Census Bureau
+Kentucky,Frankfort,1,38.228115,-84.869708,1,place,,,Frankfort,KY,Franklin County,40601,US,TIGER/Line® dataset from the US Census Bureau
+Louisiana,Baton Rouge,0,30.44924,-91.185607,1,place,,,Baton Rouge,LA,East Baton Rouge Parish,70801,US,TIGER/Line® dataset from the US Census Bureau
+Maine,Augusta,0,44.351642,-69.803773,1,place,,,Augusta,ME,Kennebec County,4330,US,TIGER/Line® dataset from the US Census Bureau
+Maryland,Annapolis,3,38.98775,-76.5528,1,place,,,Annapolis,MD,Anne Arundel County,21401,US,TIGER/Line® dataset from the US Census Bureau
+Massachusetts,Boston,1,42.370567,-71.026964,1,place,,,Boston,MA,Suffolk County,2101,US,TIGER/Line® dataset from the US Census Bureau
+Michigan,Lansing,8,42.599184,-84.371973,1,place,,,Lansing,MI,Ingham County,48901,US,TIGER/Line® dataset from the US Census Bureau
+Minnesota,Minneapolis,0,44.984577,-93.269097,1,place,,,Minneapolis,MN,Hennepin County,55401,US,TIGER/Line® dataset from the US Census Bureau
+Mississippi,Jackson,3,32.289656,-90.184201,1,place,,,Jackson,MS,Hinds County,39201,US,TIGER/Line® dataset from the US Census Bureau
+Missouri,Jefferson City,2,38.494029,-92.165194,1,place,,,Jefferson City,MO,Cole County,65101,US,TIGER/Line® dataset from the US Census Bureau
+Montana,Helena,0,46.527398,-112.21037,1,place,,,Helena,MT,Lewis and Clark County,59601,US,TIGER/Line® dataset from the US Census Bureau
+Nebraska,Lincoln,0,40.865142,-96.823133,1,place,,,Lincoln,NE,Lancaster County,68501,US,TIGER/Line® dataset from the US Census Bureau
+Nevada,Carson City,0,39.154485,-119.73074,1,place,,,Carson City,NV,Carson City,89701,US,TIGER/Line® dataset from the US Census Bureau
+New Hampshire,Concord,0,43.230314,-71.536101,1,place,,,Concord,NH,Merrimack County,3301,US,TIGER/Line® dataset from the US Census Bureau
+New Jersey,Trenton,0,40.280531,-74.712018,1,place,,,Trenton,NJ,Mercer County,8601,US,TIGER/Line® dataset from the US Census Bureau
+New Mexico,Santa Fe,0,35.697473,-105.982146,1,place,,,Santa Fe,NM,Santa Fe County,87501,US,TIGER/Line® dataset from the US Census Bureau
+New York,Albany,3,42.614852,-73.970812,1,place,,,Albany,NY,Albany County,12201,US,TIGER/Line® dataset from the US Census Bureau
+North Carolina,Raleigh,0,35.773632,-78.634457,1,place,,,Raleigh,NC,Wake County,27601,US,TIGER/Line® dataset from the US Census Bureau
+North Dakota,Bismarck,0,46.816035,-100.700296,1,place,,,Bismarck,ND,Burleigh County,58501,US,TIGER/Line® dataset from the US Census Bureau
+Ohio,Columbus,2,40.100924,-83.013402,1,place,,,Columbus,OH,Franklin County,43085,US,TIGER/Line® dataset from the US Census Bureau
+Oklahoma,Oklahoma City,0,35.491608,-97.562817,1,place,,,Oklahoma City,OK,Oklahoma County,73101,US,TIGER/Line® dataset from the US Census Bureau
+Oregon,Salem,1,44.94878,-123.003655,1,place,,,Salem,OR,Marion County,97301,US,TIGER/Line® dataset from the US Census Bureau
+Pennsylvania,Harrisburg,3,40.258655,-76.894376,1,place,,,Harrisburg,PA,Dauphin County,17101,US,TIGER/Line® dataset from the US Census Bureau
+Rhode Island,Providence,0,41.82275,-71.414451,1,place,,,Providence,RI,Providence County,2901,US,TIGER/Line® dataset from the US Census Bureau
+South Carolina,Columbia,0,33.987454,-81.024864,1,place,,,Columbia,SC,Richland County,29201,US,TIGER/Line® dataset from the US Census Bureau
+South Dakota,Pierre,0,44.334073,-100.094195,1,place,,,Pierre,SD,Hughes County,57501,US,TIGER/Line® dataset from the US Census Bureau
+Tennessee,Memphis,3,35.169255,-89.990415,1,place,,,Memphis,TN,Shelby County,37501,US,TIGER/Line® dataset from the US Census Bureau
+Texas,Austin,21,30.326374,-97.771258,1,place,,,Austin,TX,Travis County,73301,US,TIGER/Line® dataset from the US Census Bureau
+Utah,Salt Lake City,0,40.756095,-111.900719,1,place,,,Salt Lake City,UT,Salt Lake County,84101,US,TIGER/Line® dataset from the US Census Bureau
+Vermont,Montpellier,0,44.19906,-72.559638,1,place,,,Montpelier,VT,Washington County,5601,US,TIGER/Line® dataset from the US Census Bureau
+Virginia,Richmond,3,37.524246,-77.493157,1,place,,,Richmond,VA,Richmond city,23218,US,TIGER/Line® dataset from the US Census Bureau
+Washington,Olympia,0,46.984767,-122.869079,1,place,,,Olympia,WA,Thurston County,98501,US,TIGER/Line® dataset from the US Census Bureau
+West Virginia,Charleston,0,38.350719,-81.630359,1,place,,,Charleston,WV,Kanawha County,25301,US,TIGER/Line® dataset from the US Census Bureau
+Wisconsin,Madison,1,43.06956,-89.423861,1,place,,,Madison,WI,Dane County,53701,US,TIGER/Line® dataset from the US Census Bureau
+Wyoming,Cheyenne,0,41.092356,-104.936269,1,place,,,Cheyenne,WY,Laramie County,82001,US,TIGER/Line® dataset from the US Census Bureau

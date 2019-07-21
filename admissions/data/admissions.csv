@@ -1,0 +1,173 @@
+state,city,number,class,Latitude,Longitude,City2,State3,County,Zip
+Arkansas,Little Rock,1,2017,34.746905,-92.280049,Little Rock,AR,Pulaski County,72201
+Colorado,Denver,1,2017,39.726303,-104.856808,Denver,CO,Denver County,80201
+Indiana,Indianapolis,1,2017,39.775092,-86.13216,Indianapolis,IN,Marion County,46201
+Iowa,Des Moines,1,2017,41.672687,-93.572173,Des Moines,IA,Polk County,50301
+Maine,Augusta,1,2017,44.351642,-69.803773,Augusta,ME,Kennebec County,4330
+Massachusetts,Boston,1,2017,42.370567,-71.026964,Boston,MA,Suffolk County,2101
+Minnesota,Minneapolis,1,2017,44.984577,-93.269097,Minneapolis,MN,Hennepin County,55401
+Nebraska,Lincoln,1,2017,40.865142,-96.823133,Lincoln,NE,Lancaster County,68501
+Nevada,Carson City,1,2017,39.154485,-119.73074,Carson City,NV,Carson City,89701
+North Carolina,Raleigh,1,2017,35.773632,-78.634457,Raleigh,NC,Wake County,27601
+Colorado,Denver,1,2018,39.726303,-104.856808,Denver,CO,Denver County,80201
+Connecticut,Hartford,1,2018,41.78007,-72.677099,Hartford,CT,Hartford County,6101
+District of Columbia,Washington D.C,1,2018,38.911936,-77.016719,Washington,DC,District of Columbia,20001
+Idaho,Boise,1,2018,43.603768,-116.272921,Boise,ID,Ada County,83701
+Kentucky,Frankfort,1,2018,38.228115,-84.869708,Frankfort,KY,Franklin County,40601
+Louisiana,Baton Rouge,1,2018,30.44924,-91.185607,Baton Rouge,LA,East Baton Rouge Parish,70801
+Massachusetts,Boston,1,2018,42.370567,-71.026964,Boston,MA,Suffolk County,2101
+Minnesota,Minneapolis,1,2018,44.984577,-93.269097,Minneapolis,MN,Hennepin County,55401
+Mississippi,Jackson,1,2018,32.289656,-90.184201,Jackson,MS,Hinds County,39201
+Missouri,Jefferson City,1,2018,38.494029,-92.165194,Jefferson City,MO,Cole County,65101
+Nebraska,Lincoln,1,2018,40.865142,-96.823133,Lincoln,NE,Lancaster County,68501
+Nevada,Carson City,1,2018,39.154485,-119.73074,Carson City,NV,Carson City,89701
+North Carolina,Raleigh,1,2018,35.773632,-78.634457,Raleigh,NC,Wake County,27601
+South Dakota,Pierre,1,2018,44.334073,-100.094195,Pierre,SD,Hughes County,57501
+Washington,Olympia,1,2018,46.984767,-122.869079,Olympia,WA,Thurston County,98501
+Arizona,Phoenix,1,2019,33.703967,-112.351835,Phoenix,AZ,Maricopa County,85001
+Colorado,Denver,1,2019,39.726303,-104.856808,Denver,CO,Denver County,80201
+Idaho,Boise,1,2019,43.603768,-116.272921,Boise,ID,Ada County,83701
+Mississippi,Jackson,1,2019,32.289656,-90.184201,Jackson,MS,Hinds County,39201
+South Dakota,Pierre,1,2019,44.334073,-100.094195,Pierre,SD,Hughes County,57501
+Wisconsin,Madison,1,2019,43.06956,-89.423861,Madison,WI,Dane County,53701
+Colorado,Denver,1,2020,39.726303,-104.856808,Denver,CO,Denver County,80201
+Connecticut,Hartford,1,2020,41.78007,-72.677099,Hartford,CT,Hartford County,6101
+Iowa,Des Moines,1,2020,41.672687,-93.572173,Des Moines,IA,Polk County,50301
+Kansas,Topeka,1,2020,38.988075,-95.780662,Topeka,KS,Shawnee County,66601
+Louisiana,Baton Rouge,1,2020,30.44924,-91.185607,Baton Rouge,LA,East Baton Rouge Parish,70801
+Maryland,Annapolis,1,2020,38.98775,-76.5528,Annapolis,MD,Anne Arundel County,21401
+Massachusetts,Boston,1,2020,42.370567,-71.026964,Boston,MA,Suffolk County,2101
+Missouri,Jefferson City,1,2020,38.494029,-92.165194,Jefferson City,MO,Cole County,65101
+Nebraska,Lincoln,1,2020,40.865142,-96.823133,Lincoln,NE,Lancaster County,68501
+New Jersey,Trenton,1,2020,40.280531,-74.712018,Trenton,NJ,Mercer County,8601
+North Carolina,Raleigh,1,2020,35.773632,-78.634457,Raleigh,NC,Wake County,27601
+Ohio,Columbus,1,2020,40.100924,-83.013402,Columbus,OH,Franklin County,43085
+South Carolina,Columbia,1,2020,33.987454,-81.024864,Columbia,SC,Richland County,29201
+South Dakota,Pierre,1,2020,44.334073,-100.094195,Pierre,SD,Hughes County,57501
+Arizona,Phoenix,1,2021,33.703967,-112.351835,Phoenix,AZ,Maricopa County,85001
+Colorado,Denver,1,2021,39.726303,-104.856808,Denver,CO,Denver County,80201
+Indiana,Indianapolis,1,2021,39.775092,-86.13216,Indianapolis,IN,Marion County,46201
+Kansas,Topeka,1,2021,38.988075,-95.780662,Topeka,KS,Shawnee County,66601
+Kentucky,Frankfort,1,2021,38.228115,-84.869708,Frankfort,KY,Franklin County,40601
+Massachusetts,Boston,1,2021,42.370567,-71.026964,Boston,MA,Suffolk County,2101
+Oregon,Salem,1,2021,44.94878,-123.003655,Salem,OR,Marion County,97301
+Wisconsin,Madison,1,2021,43.06956,-89.423861,Madison,WI,Dane County,53701
+Connecticut,Hartford,1,2022,41.78007,-72.677099,Hartford,CT,Hartford County,6101
+Delaware,Dover,1,2022,39.156376,-75.49549,Dover,DE,Kent County,19901
+Indiana,Indianapolis,1,2022,39.775092,-86.13216,Indianapolis,IN,Marion County,46201
+Iowa,Des Moines,1,2022,41.672687,-93.572173,Des Moines,IA,Polk County,50301
+Kansas,Topeka,1,2022,38.988075,-95.780662,Topeka,KS,Shawnee County,66601
+Kentucky,Frankfort,1,2022,38.228115,-84.869708,Frankfort,KY,Franklin County,40601
+Maryland,Annapolis,1,2022,38.98775,-76.5528,Annapolis,MD,Anne Arundel County,21401
+Massachusetts,Boston,1,2022,42.370567,-71.026964,Boston,MA,Suffolk County,2101
+Oregon,Salem,1,2022,44.94878,-123.003655,Salem,OR,Marion County,97301
+South Carolina,Columbia,1,2022,33.987454,-81.024864,Columbia,SC,Richland County,29201
+Tennessee,Memphis,1,2022,35.169255,-89.990415,Memphis,TN,Shelby County,37501
+Washington,Olympia,1,2022,46.984767,-122.869079,Olympia,WA,Thurston County,98501
+Maryland,Annapolis,2,2017,38.98775,-76.5528,Annapolis,MD,Anne Arundel County,21401
+Ohio,Columbus,2,2017,40.100924,-83.013402,Columbus,OH,Franklin County,43085
+South Carolina,Columbia,2,2017,33.987454,-81.024864,Columbia,SC,Richland County,29201
+Wisconsin,Madison,2,2017,43.06956,-89.423861,Madison,WI,Dane County,53701
+Arizona,Phoenix,2,2018,33.703967,-112.351835,Phoenix,AZ,Maricopa County,85001
+Michigan,Lansing,2,2018,42.599184,-84.371973,Lansing,MI,Ingham County,48901
+New York,Albany,2,2018,42.614852,-73.970812,Albany,NY,Albany County,12201
+Oregon,Salem,2,2018,44.94878,-123.003655,Salem,OR,Marion County,97301
+Arkansas,Little Rock,2,2019,34.746905,-92.280049,Little Rock,AR,Pulaski County,72201
+Indiana,Indianapolis,2,2019,39.775092,-86.13216,Indianapolis,IN,Marion County,46201
+Massachusetts,Boston,2,2019,42.370567,-71.026964,Boston,MA,Suffolk County,2101
+Minnesota,Minneapolis,2,2019,44.984577,-93.269097,Minneapolis,MN,Hennepin County,55401
+Missouri,Jefferson City,2,2019,38.494029,-92.165194,Jefferson City,MO,Cole County,65101
+Ohio,Columbus,2,2019,40.100924,-83.013402,Columbus,OH,Franklin County,43085
+Pennsylvania,Harrisburg,2,2019,40.258655,-76.894376,Harrisburg,PA,Dauphin County,17101
+South Carolina,Columbia,2,2019,33.987454,-81.024864,Columbia,SC,Richland County,29201
+Arkansas,Little Rock,2,2020,34.746905,-92.280049,Little Rock,AR,Pulaski County,72201
+Illinois,Springfield,2,2020,39.800698,-89.648801,Springfield,IL,Sangamon County,62701
+Indiana,Indianapolis,2,2020,39.775092,-86.13216,Indianapolis,IN,Marion County,46201
+Minnesota,Minneapolis,2,2020,44.984577,-93.269097,Minneapolis,MN,Hennepin County,55401
+Nevada,Carson City,2,2020,39.154485,-119.73074,Carson City,NV,Carson City,89701
+Tennessee,Memphis,2,2020,35.169255,-89.990415,Memphis,TN,Shelby County,37501
+Virginia,Richmond,2,2020,37.524246,-77.493157,Richmond,VA,Richmond city,23218
+Missouri,Jefferson City,2,2021,38.494029,-92.165194,Jefferson City,MO,Cole County,65101
+Ohio,Columbus,2,2021,40.100924,-83.013402,Columbus,OH,Franklin County,43085
+Idaho,Boise,2,2022,43.603768,-116.272921,Boise,ID,Ada County,83701
+Louisiana,Baton Rouge,2,2022,30.44924,-91.185607,Baton Rouge,LA,East Baton Rouge Parish,70801
+Minnesota,Minneapolis,2,2022,44.984577,-93.269097,Minneapolis,MN,Hennepin County,55401
+North Carolina,Raleigh,2,2022,35.773632,-78.634457,Raleigh,NC,Wake County,27601
+Rhode Island,Providence,2,2022,41.82275,-71.414451,Providence,RI,Providence County,2901
+Wisconsin,Madison,2,2022,43.06956,-89.423861,Madison,WI,Dane County,53701
+Illinois,Springfield,3,2017,39.800698,-89.648801,Springfield,IL,Sangamon County,62701
+Missouri,Jefferson City,3,2017,38.494029,-92.165194,Jefferson City,MO,Cole County,65101
+New York,Albany,3,2017,42.614852,-73.970812,Albany,NY,Albany County,12201
+Tennessee,Memphis,3,2017,35.169255,-89.990415,Memphis,TN,Shelby County,37501
+Utah,Salt Lake City,3,2017,40.756095,-111.900719,Salt Lake City,UT,Salt Lake County,84101
+Virginia,Richmond,3,2017,37.524246,-77.493157,Richmond,VA,Richmond city,23218
+Utah,Salt Lake City,3,2018,40.756095,-111.900719,Salt Lake City,UT,Salt Lake County,84101
+Virginia,Richmond,3,2018,37.524246,-77.493157,Richmond,VA,Richmond city,23218
+Louisiana,Baton Rouge,3,2019,30.44924,-91.185607,Baton Rouge,LA,East Baton Rouge Parish,70801
+Michigan,Lansing,3,2019,42.599184,-84.371973,Lansing,MI,Ingham County,48901
+Nevada,Carson City,3,2019,39.154485,-119.73074,Carson City,NV,Carson City,89701
+North Carolina,Raleigh,3,2019,35.773632,-78.634457,Raleigh,NC,Wake County,27601
+Tennessee,Memphis,3,2019,35.169255,-89.990415,Memphis,TN,Shelby County,37501
+Arizona,Phoenix,3,2020,33.703967,-112.351835,Phoenix,AZ,Maricopa County,85001
+Pennsylvania,Harrisburg,3,2020,40.258655,-76.894376,Harrisburg,PA,Dauphin County,17101
+Maryland,Annapolis,3,2021,38.98775,-76.5528,Annapolis,MD,Anne Arundel County,21401
+Mississippi,Jackson,3,2021,32.289656,-90.184201,Jackson,MS,Hinds County,39201
+New York,Albany,3,2021,42.614852,-73.970812,Albany,NY,Albany County,12201
+Pennsylvania,Harrisburg,3,2021,40.258655,-76.894376,Harrisburg,PA,Dauphin County,17101
+Tennessee,Memphis,3,2021,35.169255,-89.990415,Memphis,TN,Shelby County,37501
+Virginia,Richmond,3,2021,37.524246,-77.493157,Richmond,VA,Richmond city,23218
+Michigan,Lansing,3,2022,42.599184,-84.371973,Lansing,MI,Ingham County,48901
+New Jersey,Trenton,3,2022,40.280531,-74.712018,Trenton,NJ,Mercer County,8601
+Pennsylvania,Harrisburg,3,2022,40.258655,-76.894376,Harrisburg,PA,Dauphin County,17101
+California,Sacramento,4,2017,38.380456,-121.555406,Sacramento,CA,Sacramento County,94203
+Louisiana,Baton Rouge,4,2017,30.44924,-91.185607,Baton Rouge,LA,East Baton Rouge Parish,70801
+Michigan,Lansing,4,2017,42.599184,-84.371973,Lansing,MI,Ingham County,48901
+Pennsylvania,Harrisburg,4,2017,40.258655,-76.894376,Harrisburg,PA,Dauphin County,17101
+New Jersey,Trenton,4,2018,40.280531,-74.712018,Trenton,NJ,Mercer County,8601
+Ohio,Columbus,4,2018,40.100924,-83.013402,Columbus,OH,Franklin County,43085
+Pennsylvania,Harrisburg,4,2018,40.258655,-76.894376,Harrisburg,PA,Dauphin County,17101
+Tennessee,Memphis,4,2018,35.169255,-89.990415,Memphis,TN,Shelby County,37501
+Illinois,Springfield,4,2019,39.800698,-89.648801,Springfield,IL,Sangamon County,62701
+New Jersey,Trenton,4,2019,40.280531,-74.712018,Trenton,NJ,Mercer County,8601
+New York,Albany,4,2019,42.614852,-73.970812,Albany,NY,Albany County,12201
+Utah,Salt Lake City,4,2019,40.756095,-111.900719,Salt Lake City,UT,Salt Lake County,84101
+Virginia,Richmond,4,2019,37.524246,-77.493157,Richmond,VA,Richmond city,23218
+Michigan,Lansing,4,2020,42.599184,-84.371973,Lansing,MI,Ingham County,48901
+New York,Albany,4,2020,42.614852,-73.970812,Albany,NY,Albany County,12201
+Utah,Salt Lake City,4,2020,40.756095,-111.900719,Salt Lake City,UT,Salt Lake County,84101
+Illinois,Springfield,4,2021,39.800698,-89.648801,Springfield,IL,Sangamon County,62701
+Arizona,Phoenix,4,2022,33.703967,-112.351835,Phoenix,AZ,Maricopa County,85001
+Illinois,Springfield,4,2022,39.800698,-89.648801,Springfield,IL,Sangamon County,62701
+Ohio,Columbus,4,2022,40.100924,-83.013402,Columbus,OH,Franklin County,43085
+Illinois,Springfield,5,2018,39.800698,-89.648801,Springfield,IL,Sangamon County,62701
+Texas,Austin,5,2018,30.326374,-97.771258,Austin,TX,Travis County,73301
+New York,Albany,5,2022,42.614852,-73.970812,Albany,NY,Albany County,12201
+Virginia,Richmond,5,2022,37.524246,-77.493157,Richmond,VA,Richmond city,23218
+Georgia,Atlanta,6,2020,33.844371,-84.47405,Atlanta,GA,Fulton County,30301
+Georgia,Atlanta,8,2019,33.844371,-84.47405,Atlanta,GA,Fulton County,30301
+Michigan,Lansing,8,2021,42.599184,-84.371973,Lansing,MI,Ingham County,48901
+Texas,Austin,9,2017,30.326374,-97.771258,Austin,TX,Travis County,73301
+Georgia,Atlanta,9,2018,33.844371,-84.47405,Atlanta,GA,Fulton County,30301
+California,Sacramento,9,2020,38.380456,-121.555406,Sacramento,CA,Sacramento County,94203
+Georgia,Atlanta,9,2021,33.844371,-84.47405,Atlanta,GA,Fulton County,30301
+Georgia,Atlanta,10,2017,33.844371,-84.47405,Atlanta,GA,Fulton County,30301
+California,Sacramento,10,2022,38.380456,-121.555406,Sacramento,CA,Sacramento County,94203
+California,Sacramento,11,2018,38.380456,-121.555406,Sacramento,CA,Sacramento County,94203
+Texas,Austin,13,2020,30.326374,-97.771258,Austin,TX,Travis County,73301
+Texas,Austin,13,2022,30.326374,-97.771258,Austin,TX,Travis County,73301
+California,Sacramento,14,2019,38.380456,-121.555406,Sacramento,CA,Sacramento County,94203
+Texas,Austin,14,2019,30.326374,-97.771258,Austin,TX,Travis County,73301
+California,Sacramento,14,2021,38.380456,-121.555406,Sacramento,CA,Sacramento County,94203
+Texas,Austin,21,2021,30.326374,-97.771258,Austin,TX,Travis County,73301
+Florida,Tallahassee,22,2017,30.427753,-84.258472,Tallahassee,FL,Leon County,32301
+Alabama,Montgomery,22,2021,32.356988,-86.257817,Montgomery,AL,Montgomery County,36101
+Florida,Tallahassee,23,2018,30.427753,-84.258472,Tallahassee,FL,Leon County,32301
+Alabama,Montgomery,31,2017,32.356988,-86.257817,Montgomery,AL,Montgomery County,36101
+Alabama,Montgomery,33,2022,32.356988,-86.257817,Montgomery,AL,Montgomery County,36101
+Florida,Tallahassee,34,2019,30.427753,-84.258472,Tallahassee,FL,Leon County,32301
+Alabama,Montgomery,34,2020,32.356988,-86.257817,Montgomery,AL,Montgomery County,36101
+Alabama,Montgomery,36,2019,32.356988,-86.257817,Montgomery,AL,Montgomery County,36101
+Florida,Tallahassee,39,2020,30.427753,-84.258472,Tallahassee,FL,Leon County,32301
+Alabama,Montgomery,40,2018,32.356988,-86.257817,Montgomery,AL,Montgomery County,36101
+Florida,Tallahassee,47,2021,30.427753,-84.258472,Tallahassee,FL,Leon County,32301
+Florida,Tallahassee,47,2022,30.427753,-84.258472,Tallahassee,FL,Leon County,32301

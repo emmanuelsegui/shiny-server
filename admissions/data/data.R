@@ -1,0 +1,5 @@
+xlsAdmissions = "data/admissions.xlsx"
+xlsMaster = "data/data 2017-2020.xlsx"
+xlsPreceptors = "data/Preceptors List Class of 2017.xlsx"
+xlsSites = "data/coresitesnames.xlsx"
+xlsApplicationNumbers = "data/ApplicationNumbers.xlsx"
