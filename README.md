@@ -1,4 +1,4 @@
-# Dean Attali's Shiny Server
+# Manu's Shiny Server
 
 > *Copyright 2016 [Dean Attali](http://deanattali.com). Licensed under the MIT license.*
 
@@ -12,4 +12,4 @@ The [config](./config) directory contains a few configuration files that are use
 
 ---
 
-Original author: Dean Attali [deanattali.com](http://deanattali.com)
+Original author: Manu
